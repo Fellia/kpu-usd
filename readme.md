@@ -1,3 +1,6 @@
+Assets(css, js, img dll) pake yang dipublic.
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
